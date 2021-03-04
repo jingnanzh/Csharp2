@@ -1,0 +1,13 @@
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.csprojAssemblyReference.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.AssemblyInfoInputs.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.AssemblyInfo.cs
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.exe
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.deps.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.runtimeconfig.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.runtimeconfig.dev.json
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.dll
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\bin\Debug\netcoreapp3.1\MyCSharpIntermediate.pdb
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.dll
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.pdb
+C:\Users\Maggie\Desktop\Udemy-desktop\C#\MyCSharpIntermediate\obj\Debug\netcoreapp3.1\MyCSharpIntermediate.genruntimeconfig.cache
